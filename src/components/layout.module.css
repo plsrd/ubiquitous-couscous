@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
-  background-image: url(https://f4.bcbits.com/img/a1612537538_10.jpg);
+  background-image: url('../images/background.jpg');
+}
+
+.site-title {
+  font-size: 3rem;
+  color: plum;
+  font-weight: 700;
+  margin: 3rem 0;
 }
 
 .container {
